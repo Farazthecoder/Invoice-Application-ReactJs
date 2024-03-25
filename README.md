@@ -1,4 +1,10 @@
+# npm install
 
+This is command that first you have to install the node modules folder to setup the project.
+
+# npm run dev
+
+This is command that is used to start the react invoice application on the  given server. 
 
 
 # React + Vite
